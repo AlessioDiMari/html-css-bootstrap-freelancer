@@ -1,3 +1,21 @@
 .first-cont p a{
     text-decoration: none;
 }
+
+footer  .btn{
+    height: 44px;
+    width: 44px;
+    text-align: center;
+}
+
+.bg-custom-1{
+    background-color: #1ABC9C;
+}
+
+.bg-custom-2{
+    background-color: #3A546D;
+}
+
+.bg-custom-3{
+ background-color: #2C3E50;   
+}
